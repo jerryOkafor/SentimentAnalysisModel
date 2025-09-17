@@ -7,7 +7,7 @@ scratch using Python and deployed on Amazon SageMaker for scalable inference.
 
 ## Running the project
 ### 1. Installations
-Project Sentiment Analysis Model Faced uses [MiniConda](https://docs.anaconda.com/miniconda/). 
+Project Sentiment Analysis Model uses [MiniConda](https://docs.anaconda.com/miniconda/). 
 Below is a detailed instructions on how to install the latest version of MiniConda on your chosen machine:
 
 - **Linux:** https://conda.io/projects/conda/en/latest/user-guide/install/linux.html
